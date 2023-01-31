@@ -4,8 +4,8 @@
 
 1 - 15:
 
-| Snapshot ID | Document URL | In iFrame | JavaScript URL | API Call | Timestamp | 0-before API call, 1-after API call |
-| ----------- | ------------ | ------------ | -------------- | -------- | --------- | ----------------------------------- |
+| Snapshot ID | Document URL | In iFrame | JavaScript URL | API Call / Event | Timestamp | 0-before API call, 1-after API call |
+| ----------- | ------------ | --------- | -------------- | ---------------- | --------- | ----------------------------------- |
 | 1 | http://www.1*i.com/ | false | http://www.1*i.com/jquery.20.min.js | writeln | 1661371431297 | 0 |
 | 3 | http://www.1*i.com/ | false | http://www.1*i.com/jquery.20.min.js | writeln | 1661371431297 | 1 |
 | 4 | http://www.1*i.com/ | false | https://www.m*8.com/ff/pp.js | write | 1661371433106 | 0 |
