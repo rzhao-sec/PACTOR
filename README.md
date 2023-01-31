@@ -13,4 +13,5 @@ https://user-images.githubusercontent.com/10173153/215888977-233b3f66-02bc-45fb-
 2. Repo structure:
 
    |--controlscripts: the 154 control scripts; their URLs are anonymized.
-   |--snapshots: snapshots of http://www.1*i.com/
+   
+   |--snapshots: snapshots of http://www.1*i.com/.
