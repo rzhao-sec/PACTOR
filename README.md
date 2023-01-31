@@ -12,4 +12,4 @@ https://user-images.githubusercontent.com/10173153/215888977-233b3f66-02bc-45fb-
 
 2. Repo structure:
 
-|--controlscripts: lists all the 154 control scripts; their URLs are anonymized.
+|--controlscripts: the 154 control scripts; their URLs are anonymized.
