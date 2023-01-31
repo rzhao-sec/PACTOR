@@ -2,7 +2,7 @@
 
 0: snapshots of statically retrieved page
 
-1 - 15: snapshots during the page loading
+1 - 15: snapshots before/after API calls and at events during the page loading
 
 | Snapshot ID | Document URL | In iFrame | JavaScript URL | API Call / Event | Timestamp | 0: before API call, 1: after API call |
 | ----------- | ------------ | --------- | -------------- | ---------------- | --------- | ------------------------------------- |
