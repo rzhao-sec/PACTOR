@@ -23,8 +23,8 @@
 
 # Scores of snapshot comparison
 
-| Snapshot ID | Snapshot ID |  PA  | PB  | PAB |
-| ----------- | ----------- | ---- | --- | --- |
-| 5           | 6           | -1.0 (initially empty) | 0.0 | 0.0 |
-| 6 (11 is the same as 6) | 12          |  0.0 | 0.0 | 0.0 |
-| 0           | 12          |  0.0 | 0.0 | 0.0 |
+| Snapshot ID | Snapshot ID |  PA  | PB  | PAB | Note |
+| ----------- | ----------- | ---- | --- | --- | ---- |
+| 5           | 6           | -1.0 (initially empty) | 0.0 | 0.0 | |
+| 6 (11 is the same as 6) | 12          |  0.0 | 0.0 | 0.0 | Defaced at here |
+| 0           | 12          |  0.0 | 0.0 | 0.0 | |
