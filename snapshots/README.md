@@ -1,8 +1,8 @@
-1. Snapshots ID
+# Snapshots ID
 
 0: snapshots of statically retrieved page
 
-1 - 15:
+1 - 15: snapshots during the page loading
 
 | Snapshot ID | Document URL | In iFrame | JavaScript URL | API Call / Event | Timestamp | 0-before API call, 1-after API call |
 | ----------- | ------------ | --------- | -------------- | ---------------- | --------- | ----------------------------------- |
@@ -21,7 +21,7 @@
 | 14 | https://www.m*8.com/dan/indexjs.html | true | - | Doc_DOMContentLoaded | 1661371436071 | 1 |
 | 15 | https://www.m*8.com/dan/indexjs.html | true | - | Win_DOMContentLoaded | 1661371436074 | 1 |
 
-2. Scores of snapshot comparison
+# Scores of snapshot comparison
 
 | Snapshot ID | Snapshot ID |  PA  | PB  | PAB |
 | ----------- | ----------- | ---- | --- | --- |
