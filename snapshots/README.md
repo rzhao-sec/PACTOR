@@ -1,4 +1,4 @@
-# Snapshots ID
+# Snapshots of the website www.1*i.com (anonymized)
 
 0: the snapshot of the statically retrieved page
 
