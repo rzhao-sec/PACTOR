@@ -1,6 +1,6 @@
 # Snapshots ID
 
-0: snapshots of statically retrieved page
+0: the snapshot of the statically retrieved page
 
 1 - 15: snapshots before/after API calls and at events during the page loading
 
